@@ -2,7 +2,7 @@
 
 > This file is managed by the Java Tutor AI. Do not edit manually unless correcting an error.  
 > Created: 2026-04-12  
-> Last updated: 2026-04-12
+> Last updated: 2026-04-13
 
 ---
 
@@ -43,7 +43,9 @@ Just starting out with Java overall; has a little hands-on thread experience but
 
 > Updated throughout the course when the learner demonstrates solid understanding.
 
-- *(none yet — will be filled as course progresses)*
+- Can identify I/O-bound bottlenecks in web-backend endpoints
+- Understands that sequential external-service waits increase latency
+- Beginning to recognize shared-state risk in concurrent bidding scenarios
 
 ---
 

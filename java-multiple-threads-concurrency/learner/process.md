@@ -1,15 +1,15 @@
 # Learning Progress
 
 > This file is managed by the Java Tutor AI. Do not edit manually unless correcting an error.  
-> Last updated: 2026-04-12
+> Last updated: 2026-04-13
 
 ---
 
 ## Status
 
-- **Current Module:** 01 — Why Concurrency?
-- **Current Section:** 1.1 — Process vs. Thread
-- **Overall Progress:** 0/14 modules completed
+- **Current Module:** 02 — Creating & Starting Threads
+- **Current Section:** 2.1 — Three Ways to Create a Thread
+- **Overall Progress:** 1/14 modules completed
 - **Teaching Language:** English
 - **Teaching Style:** code-first
 
@@ -19,8 +19,8 @@
 
 | # | Module | Status | Started | Completed | Notes |
 |---|--------|--------|---------|-----------|-------|
-| 01 | Why Concurrency? | 🔄 In Progress | 2026-04-12 | — | — |
-| 02 | Creating & Starting Threads | ⬜ Not Started | — | — | — |
+| 01 | Why Concurrency? | ✅ Completed | 2026-04-12 | 2026-04-13 | Homework completed with web-backend bottleneck analysis |
+| 02 | Creating & Starting Threads | 🔄 In Progress | 2026-04-13 | — | — |
 | 03 | Thread Control | ⬜ Not Started | — | — | — |
 | 04 | The Problem of Shared State | ⬜ Not Started | — | — | — |
 | 05 | Synchronization: `synchronized` & `volatile` | ⬜ Not Started | — | — | — |
@@ -42,7 +42,7 @@
 
 | Module | Task | Status | Notes |
 |--------|------|--------|-------|
-| — | — | — | — |
+| 01 | Identify 2 bottleneck endpoints and classify I/O-bound vs CPU-bound | ✅ Completed | Auction bidding endpoint and lesson upload endpoint with S3 dependency |
 
 ---
 
@@ -51,3 +51,5 @@
 | Date | Activity | Notes |
 |------|----------|-------|
 | 2026-04-12 | Course started | Level evaluation completed — Beginner, code-first, web backend focus |
+| 2026-04-13 | Module 01 completed | Correctly identified I/O-bound bottlenecks and shared-state risk |
+| 2026-04-13 | Module 02 started | Entering section 2.1 |
